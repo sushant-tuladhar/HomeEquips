@@ -12392,7 +12392,7 @@ h6,
 .inner-page-banner .inner-page-banner-content {
   position: relative;
   z-index: 2;
-  padding: 50px 0 30px;
+  padding: 50px 0 20px;
 }
 .inner-page-banner .inner-page-banner-background {
   position: absolute;
@@ -12403,18 +12403,16 @@ h6,
 
 @media (min-width: 768px) {
   .inner-page-banner .inner-page-banner-content {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 15px;
+    padding-bottom: 70px;
   }
   .inner-page-banner .inner-page-banner-content h1, .inner-page-banner .inner-page-banner-content .h1 {
-    font-size: 30px;
-    line-height: 30px;
+    font-size: 50px;
+    line-height: 60px;
   }
 }
 @media (min-width: 992px) {
   .inner-page-banner .inner-page-banner-content h1, .inner-page-banner .inner-page-banner-content .h1 {
-    font-size: 80px;
+    font-size: 70px;
     line-height: 90px;
   }
   .inner-page-banner .inner-page-banner-content h1 .badge-new, .inner-page-banner .inner-page-banner-content .h1 .badge-new {
