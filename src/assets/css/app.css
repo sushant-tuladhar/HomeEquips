@@ -12403,11 +12403,13 @@ h6,
 
 @media (min-width: 768px) {
   .inner-page-banner .inner-page-banner-content {
-    padding-bottom: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 15px;
   }
   .inner-page-banner .inner-page-banner-content h1, .inner-page-banner .inner-page-banner-content .h1 {
-    font-size: 50px;
-    line-height: 60px;
+    font-size: 30px;
+    line-height: 30px;
   }
 }
 @media (min-width: 992px) {
