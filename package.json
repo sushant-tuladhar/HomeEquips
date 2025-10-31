@@ -3,12 +3,12 @@
     "version": "1.0.1",
     "description": "Basic BS5 Core",
     "main": "gulpfile.js",
-    "author": "ApPSeed",
+    "author": "Sushant",
     "keywords": [
         "bootstrap",
         "bootstrap5"
     ],
-    "homepage": "https://appseed.us",
+    "homepage": "",
     "bugs": {
         "url": "https://github.com/app-generator/design-core/issues"
     },
@@ -19,10 +19,10 @@
     "license": "https://github.com/app-generator/design-core/blob/master/LICENSE.md",
     "dependencies": {
         "@popperjs/core": "^2.9.2",
-        "bootstrap": "^5.0.2"
+        "bootstrap": "^5.0.2",
+        "express": "^5.1.0"
     },
     "devDependencies": {
-        "sass": "^1.47.0",
         "browser-sync": "^2.27.4",
         "del": "^6.0.0",
         "gulp": "^4.0.2",
@@ -39,6 +39,7 @@
         "gulp-sourcemaps": "^3.0.0",
         "gulp-uglify": "^3.0.2",
         "gulp-wait": "^0.0.2",
-        "merge-stream": "^2.0.0"
+        "merge-stream": "^2.0.0",
+        "sass": "^1.47.0"
     }
 }
